@@ -63,7 +63,7 @@ This dashboard enables faster insights and supports better operational planning.
 ## 🔗 Tableau Public Link
 
 View the live interactive dashboard here:
-👉 [https://public.tableau.com/app/profile/tarun.kumar.kanakala1878/vizzes#!/](https://public.tableau.com/app/profile/tarun.kumar.kanakala1878/vizzes#!/)
+👉 [https://public.tableau.com/app/profile/aurojyotidas/vizzes#!/](https://public.tableau.com/app/profile/aurojyotidas/vizzes#!/)
 
 ---
 
