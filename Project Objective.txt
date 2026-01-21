@@ -1,0 +1,33 @@
+Amazon Trade Shipping Analytics
+
+Amazon Trade is a global company that ships a wide range of Fast-Moving Consumer Goods (FMCG) to customers worldwide.
+
+Currently, the Shipping Manager lacks clear visibility into operational metrics such as the number of orders processed and shipped on a monthly basis. To address this, the objective is to build an interactive dashboard that allows the manager to:
+
+Select a specific month
+
+View the number of orders processed and shipped
+
+Identify outstanding orders on a daily basis
+
+Analyze shipping destinations for pending and completed orders
+
+This dashboard will enable better tracking of shipping operations and support informed decision-making.
+
+Data Source Details
+
+Amazon Trade maintains its data across multiple systems, including Azure and MariaDB. The Shipping Manager has provided the following credentials to establish a database connection:
+
+MariaDB Connection Details
+
+Server (Host): relational.fit.cvut.cz
+
+Port: 3306
+
+Database: (as provided)
+
+Username: guest
+
+Password: relational
+
+If the database connection is unavailable, the analysis can alternatively be performed using the uploaded CSV files.
